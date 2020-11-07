@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+    <Config>
+      <ExperimentName>CarExperiment</ExperimentName>
+      <PopulationSize>50</PopulationSize>
+      <SpecieCount>10</SpecieCount>
+      <Activation>
+        <Scheme>Acyclic</Scheme>
+      </Activation>
+      <ComplexityRegulationStrategy>Absolute</ComplexityRegulationStrategy>
+      <ComplexityThreshold>10</ComplexityThreshold>
+      <Description>Cars learn to race around a race track</Description>
+    </Config>
